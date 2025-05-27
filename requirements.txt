@@ -1,0 +1,9 @@
+# Required Python Version
+Python >= 3.8
+
+# Core Dependencies
+instaloader>=4.9       # Instagram scraping & OSINT
+colorama>=0.4          # Terminal colors for cross-platform styling
+
+# Optional (add if planning to freeze or package into .exe)
+# pyinstaller>=5.0     # For building standalone executables (optional)
